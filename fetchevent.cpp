@@ -265,3 +265,9 @@ if (fp)
 // D:
 // D:\zohol3\readlogs>cl /EHsc newfile.cpp wevtapi.lib ole32.lib
 // newfile  
+
+
+
+// git remote add origin https://github.com/haribalji/logsevent.git
+// git branch -M main
+// git push -u origin main
