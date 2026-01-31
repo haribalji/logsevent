@@ -1,0 +1,5830 @@
+﻿EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 22232
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 22232
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 22232
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 37
+Level       : 3
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+Execution ProcessID : 4
+
+EventID     : 37
+Level       : 3
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 9748
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 20456
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 6172
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 6172
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 37
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 17084
+
+EventID     : 35
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 17084
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 17084
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 17084
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 7044
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 6172
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 12252
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 12252
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 5
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10808
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 2
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10808
+
+EventID     : 5
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10696
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 2272
+
+EventID     : 2
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10696
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 12252
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 18828
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 6013
+Level       : 4
+Provider    : EventLog
+Execution ProcessID : 3320
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 18828
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10317
+Level       : 2
+Provider    : Microsoft-Windows-NDIS
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 19744
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 19744
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 19744
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 14904
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 18828
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 17132
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 17132
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10317
+Level       : 2
+Provider    : Microsoft-Windows-NDIS
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 18904
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 11652
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 11576
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 13940
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 12584
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 11544
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 17132
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4448
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4448
+
+EventID     : 10317
+Level       : 2
+Provider    : Microsoft-Windows-NDIS
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 14812
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 14812
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 37
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 14656
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4448
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 14808
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 6013
+Level       : 4
+Provider    : EventLog
+Execution ProcessID : 3320
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 134
+Level       : 3
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 14808
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 37
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 35
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 17900
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 17900
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 17900
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 13648
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 14808
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4340
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4340
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1304
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1304
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 22860
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 8436
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 18964
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 13940
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 15380
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 12956
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 18344
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1724
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 21268
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 21860
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4340
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 3028
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 3028
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7045
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-FilterManager
+Execution ProcessID : 4
+
+EventID     : 6
+Level       : 4
+Provider    : Microsoft-Windows-FilterManager
+Execution ProcessID : 4
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 14256
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 22232
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 22232
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 22232
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 37
+Level       : 3
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+Execution ProcessID : 4
+
+EventID     : 37
+Level       : 3
+Provider    : Microsoft-Windows-Kernel-Processor-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 9748
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 20456
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 6172
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 6172
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 37
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 17084
+
+EventID     : 35
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 17084
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 17084
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 17084
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 7044
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 6172
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 12252
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 12252
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 5
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10808
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 2
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10808
+
+EventID     : 5
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10696
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 2272
+
+EventID     : 2
+Level       : 4
+Provider    : Microsoft-Windows-IsolatedUserMode
+Execution ProcessID : 10696
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 12252
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 18828
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 6013
+Level       : 4
+Provider    : EventLog
+Execution ProcessID : 3320
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 18828
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10317
+Level       : 2
+Provider    : Microsoft-Windows-NDIS
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 19744
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 19744
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 19744
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 14904
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 18828
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 17132
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 17132
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10317
+Level       : 2
+Provider    : Microsoft-Windows-NDIS
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 18904
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 11652
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 11576
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 13940
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 12584
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 11544
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 17132
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4448
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4448
+
+EventID     : 10317
+Level       : 2
+Provider    : Microsoft-Windows-NDIS
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 14812
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 14812
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 5384
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 37
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 14656
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 158
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7009
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7000
+Level       : 2
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10005
+Level       : 2
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1404
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4448
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 14808
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 6013
+Level       : 4
+Provider    : EventLog
+Execution ProcessID : 3320
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 134
+Level       : 3
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 14808
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 37
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 35
+Level       : 4
+Provider    : Microsoft-Windows-Time-Service
+Execution ProcessID : 19680
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 24
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 19680
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 44
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 17900
+
+EventID     : 43
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 17900
+
+EventID     : 19
+Level       : 4
+Provider    : Microsoft-Windows-WindowsUpdateClient
+Execution ProcessID : 17900
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 13648
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 700
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 14808
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4340
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 701
+Level       : 3
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4340
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1304
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1304
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 22860
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 8436
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 18964
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 13940
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 9132
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 15380
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 12956
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 18344
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1724
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 21268
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2536
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 1074
+Level       : 4
+Provider    : User32
+Execution ProcessID : 21860
+
+EventID     : 7002
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 4340
+
+EventID     : 267
+Level       : 4
+Provider    : Win32k
+Execution ProcessID : 4
+
+EventID     : 187
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 3028
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 42
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 107
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 4
+
+EventID     : 30
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 18
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 32
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Boot
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7001
+Level       : 4
+Provider    : Microsoft-Windows-Winlogon
+Execution ProcessID : 3028
+
+EventID     : 1
+Level       : 4
+Provider    : Microsoft-Windows-Power-Troubleshooter
+Execution ProcessID : 5320
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 18
+Level       : 4
+Provider    : BTHUSB
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 16
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-General
+Execution ProcessID : 1404
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 10016
+Level       : 3
+Provider    : Microsoft-Windows-DistributedCOM
+Execution ProcessID : 1572
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 172
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 7045
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1176
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
+EventID     : 17
+Level       : 4
+Provider    : TPM
+Execution ProcessID : 4
+
