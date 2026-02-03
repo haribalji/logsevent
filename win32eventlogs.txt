@@ -1,0 +1,1361 @@
+﻿ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1008
+  Source: Microsoft-Windows-Perflib
+ Logfile : Application
+Date: 03/02/2026 
+Type: Warning
+
+ Event ID: 1008
+  Source: Microsoft-Windows-Perflib
+ Logfile : Application
+Date: 03/02/2026 
+Type: Warning
+
+ Event ID: 1008
+  Source: Microsoft-Windows-Perflib
+ Logfile : Application
+Date: 03/02/2026 
+Type: Warning
+
+ Event ID: 1008
+  Source: Microsoft-Windows-Perflib
+ Logfile : Application
+Date: 03/02/2026 
+Type: Warning
+
+ Event ID: 1008
+  Source: Microsoft-Windows-Perflib
+ Logfile : Application
+Date: 03/02/2026 
+Type: Warning
+
+ Event ID: 1008
+  Source: Microsoft-Windows-Perflib
+ Logfile : Application
+Date: 03/02/2026 
+Type: Warning
+
+ Event ID: 3238068302
+  Source: SideBySide
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 0
+  Source: brave
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 8224
+  Source: VSS
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: SynTPEnhService
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: SynTPEnhService
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 15
+  Source: SecurityCenter
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 15
+  Source: SecurityCenter
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3238068257
+  Source: SideBySide
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742857
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742858
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742858
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1042
+  Source: MsiInstaller
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1035
+  Source: MsiInstaller
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 11728
+  Source: MsiInstaller
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1040
+  Source: MsiInstaller
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742827
+  Source: Microsoft-Windows-Search
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742837
+  Source: Microsoft-Windows-Search
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742827
+  Source: Microsoft-Windows-Search
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742837
+  Source: Microsoft-Windows-Search
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10000
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742828
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10005
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3238068302
+  Source: SideBySide
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 10002
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10006
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10000
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10001
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10000
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10001
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 10000
+  Source: Microsoft-Windows-RestartManager
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073758208
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1
+  Source: Universal Print
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 3221241866
+  Source: Microsoft-Windows-Security-SPP
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1001
+  Source: Windows Error Reporting
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1000
+  Source: Application Error
+ Logfile : Application
+Date: 03/02/2026 
+Type: Error
+
+ Event ID: 330
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 326
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 330
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 105
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 302
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 301
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 330
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 300
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 102
+  Source: ESENT
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: HP Comm Recovery
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 1073742864
+  Source: nssm
+ Logfile : Application
+Date: 03/02/2026 
+Type: Information
+
+ Event ID: 0
+  Source: igccservice
+ Logfile : Application
+Date: 03/02/2026 
+Type: Inform

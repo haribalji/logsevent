@@ -83,8 +83,6 @@ DWORD DumpEvents(LPCWSTR pwsPath)
   
   
   
-  
-  
         if (NULL == hResults)
     // if query fails it will be executed
     {
@@ -137,8 +135,6 @@ DWORD PrintResults(EVT_HANDLE hResults)
 
             goto cleanup;
         }
-
-
 
 
         // For each event, call the PrintEvent function which renders the
@@ -263,11 +259,57 @@ if (fp)
     return ERROR_SUCCESS;
 }
 // D:
-// D:\zohol3\readlogs>cl /EHsc newfile.cpp wevtapi.lib ole32.lib
-// newfile  
+// D:\zohol3\readlogs>cl /EHsc fetchevent.cpp wevtapi.lib ole32.lib
+// fetchevent  
 
 
 
 // git remote add origin https://github.com/haribalji/logsevent.git
 // git branch -M main
 // git push -u origin main
+
+
+
+
+// below here we rendering the data in xml format
+
+// if (!EvtRender(NULL, hEvent, EvtRenderEventXml,0, NULL, &bufferUsed, &propertyCount))
+    // {
+     //1)params it should be null () when we want to render the content in EvtRenderEventXml fromat(xml) and
+    //as(EvtCreateRenderContext it is also used) is used for getting the  fields you want from an event. in that time it expect the context 
+    //  where we specify the xpath which hold what are feild value we expect
+    //3)//EvtRenderEventXml--> tells Windows to give  this event in XML format. saying the format
+    //2) the event which need to rendered fromwhere we need to extract the data
+    //4) here we are saying how much data does the buffer will hold(the memory space)
+    //5th-->here only the rendered data will be wrote it can be xml or array values the memory
+    //6th-->how much memory bytes that windows used
+    //7)how many event written in buffer
+//note in the first call (buffer = NULL) and BufferSize = 0
+//that time asking windows how space is needed  then Windows 
+// calculates how much memory is required and write in
+// bufferUsed    = required number of bytes
+// propertyCount = number of properties
+// also return false and ERROR_INSUFFICIENT_BUFFER
+// if (GetLastError() != ERROR_INSUFFICIENT_BUFFER){
+//             wprintf(L"EvtRender failed (%lu)\n", GetLastError());
+//             return GetLastError();
+// }
+// }
+   
+    // bufferSize = bufferUsed;//how much data can be hold in buffer
+    // buffer = (LPWSTR)malloc(bufferSize);//dynamic allocation  of memory
+    // if (!buffer)
+    // //memory shortage
+    //     return ERROR_OUTOFMEMORY;
+
+    // Second call renders XML data
+    // if (!EvtRender(NULL,hEvent,EvtRenderEventXml,bufferSize, buffer,&bufferUsed, &propertyCount)){
+    //     wprintf(L"EvtRender failed (%lu)\n", GetLastError());
+    //     free(buffer);//relaeasing the meomory
+    //     return GetLastError();
+    // }
+        // wprintf(L"%s\n\n", buffer);//is used to print wide Unicode characters ( string )
+
+    // free(buffer);
+
+// now trying to get data as values and pairs

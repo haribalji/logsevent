@@ -1,0 +1,252 @@
+﻿
+Event occurred
+Process started: conhost.exe
+Process ID     : 19624
+Memory size    : 11209252425052671204 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: git.exe
+Process ID     : 19692
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: git.exe
+Process ID     : 28508
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 12132
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 14444
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 21136
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 4780
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: smartscreen.exe
+Process ID     : 800
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 13128
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 16016
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 17812
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: svchost.exe
+Process ID     : 27512
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: svchost.exe
+Process ID     : 6564
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 29604
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: conhost.exe
+Process ID     : 1180
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: git.exe
+Process ID     : 16616
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: git.exe
+Process ID     : 18484
+Memory size    : 11209250208849547108 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 856
+Memory size    : 11209250208849546468 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 11576
+Memory size    : 12729845103252162940 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 11424
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 19260
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 20188
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 20616
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: smartscreen.exe
+Process ID     : 26596
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 30668
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 3652
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 5228
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 13216
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: brave.exe
+Process ID     : 20068
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: svchost.exe
+Process ID     : 26660
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: svchost.exe
+Process ID     : 18468
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 17940
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 3908
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 24988
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 29076
+Memory size    : 12729842921408776132 bytes
+Date: 03/02/2026 
+
+
+Event occurred
+Process started: chrome.exe
+Process ID     : 24272
+Memory size    : 12729842921408776572 bytes
+Date: 03/02/2026 
+
