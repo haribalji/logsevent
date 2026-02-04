@@ -1,0 +1,5 @@
+﻿EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+

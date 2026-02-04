@@ -1,0 +1,125 @@
+﻿EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1184
+
+EventID     : 7040
+Level       : 4
+Provider    : Service Control Manager
+Execution ProcessID : 1184
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 506
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 507
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 566
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 1014
+Level       : 3
+Provider    : Microsoft-Windows-DNS-Client
+Execution ProcessID : 2928
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
+EventID     : 105
+Level       : 4
+Provider    : Microsoft-Windows-Kernel-Power
+Execution ProcessID : 4
+
